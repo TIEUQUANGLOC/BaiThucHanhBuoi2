@@ -1,0 +1,10 @@
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\bin\Debug\Lab2_Demo.exe.config
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\bin\Debug\Lab2_Demo.exe
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\bin\Debug\Lab2_Demo.pdb
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.AssemblyReference.cache
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\obj\Debug\Lab2_Demo.frmTrungTam.resources
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\obj\Debug\Lab2_Demo.Properties.Resources.resources
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.GenerateResource.cache
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\obj\Debug\Lab2_Demo.exe
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_Demo\obj\Debug\Lab2_Demo.pdb

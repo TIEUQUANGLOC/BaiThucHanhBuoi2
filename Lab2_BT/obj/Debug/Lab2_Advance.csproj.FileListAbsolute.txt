@@ -1,0 +1,4 @@
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_BT\obj\Debug\Lab2_Advance.csproj.AssemblyReference.cache
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_BT\obj\Debug\Lab2_Advance.Properties.Resources.resources
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_BT\obj\Debug\Lab2_Advance.csproj.GenerateResource.cache
+C:\Users\Maxsys\Downloads\2113024_Nông-Đức-Trí_Lab02_CTK45A\2113024_Nông Đức Trí_Lab02_CTK45A\Lab2_BT\obj\Debug\Lab2_Advance.csproj.CoreCompileInputs.cache
